@@ -4,7 +4,7 @@ require 'include/connexion.php';
 
 /**
  * Vérification des paramètres pour l'identification
- * et identification si tout est conforme
+ * et identification si tout est conforme ou pas
  */
 if (isset($_POST['identifier'])) {
     if (isset($_POST['identifiant']) && isset($_POST['mdp'])) {

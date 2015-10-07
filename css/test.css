@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+html, body, ul {
+    margin: 0;
+    padding: 0;
+    color: #555555;
+    font-size: 14px;
+}
